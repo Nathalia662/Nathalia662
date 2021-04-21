@@ -14,8 +14,9 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
  ### FRONT-END 
 
- <br>
- <b> Avançado <b>
+
+ <h3> Avançado <h3>
+
  <div>
 
 ![front](https://github.com/Nathalia662/Nathalia662/blob/98414cc46e1c22a5d4484e4a23fa972a8e738c46/icones1.png)
