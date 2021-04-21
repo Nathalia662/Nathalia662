@@ -2,7 +2,7 @@ Nathalia Nascimento Paschotto
 -----
 <h1 align="center">Sobre mim</h1>
 
-
+---
 
 <h3 color = "red">Olá, sejam bem vindxs ao meu perfil! 😄 🚀  </h3>
 
@@ -13,8 +13,8 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 <H1 align="center">CONHECIMENTO TÉCNICO💻 </H1>
 
-
- ### FRONT-END(AVANÇADO)
+---
+ ### FRONT-END (AVANÇADO)
 
 <BR>
 
