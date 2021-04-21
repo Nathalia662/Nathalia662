@@ -9,10 +9,12 @@ Nathalia Nascimento Paschotto
 Amo técnologia e como a programação é presente em quase tudo nela, sou super curiosa em saber das tendências que vem surgindo e procuro estar me atualizando cotidianamente conforme o mercado vem se adaptando.</p>
 
 
-<H1 align="center">CONHECIMENTO TÉCNICO💻 </H1>
+<H1 align="center">Conhecimento Técnico💻 </H1>
 
 
  ### FRONT-END (AVANÇADO)
+
+
 
 <BR>
 
