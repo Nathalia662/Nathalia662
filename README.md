@@ -11,8 +11,12 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 ---
 
-<H1 align="center">CONHECIMENTO TÉCNICO💻 <H1>
+<H1 align="center">CONHECIMENTO TÉCNICO💻 </H1>
 
+
+ FRONT-END(AVANÇADO)
+
+<BR>
 
 
 
