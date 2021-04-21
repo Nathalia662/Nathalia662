@@ -1,6 +1,10 @@
 Nathalia Nascimento Paschotto
 -----
-SOBRE MIM
+```html
+
+<h1 align ="center"> SOBRE MIM </h1>
+
+```
 -----
 Olá, sejam bem vindos ao meu perfil! (:
 
