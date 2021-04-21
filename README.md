@@ -13,7 +13,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 
  ### FRONT-END (AVANÇADO)
-
+![front](https://github.com/Nathalia662/Nathalia662/icones1.png?raw=true)
 
 
 <BR>
