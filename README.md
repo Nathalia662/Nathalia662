@@ -32,7 +32,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 ### Tagueamento
 
 <h3> Avançado: </h3>
-<img src="https://github.com/Nathalia662/Nathalia662/blob/a339ec88dcdc171a911bd9745a2cede6577d4994/ga-gtm-go.jpg" >
+<img src="https://github.com/Nathalia662/Nathalia662/blob/f10a3826661e43a655e874ba5cc25b69b6e97720/dataLayer-scheme.jpg" width="500" >
 
 
 
