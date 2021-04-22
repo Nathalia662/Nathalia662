@@ -5,7 +5,7 @@ Nathalia Nascimento Paschotto | Analytics & Optimization
 
 <h3 color = "red">Olá, sejam bem vindxs ao meu perfil! 😄 🚀  </h3>
 
-<p>Sou formada no ensino técnico em Desenvolvimento de sitemas e atualmente estou cursando minha graduação superior no mesmo seguimento.
+<p>Sou formada no ensino técnico em Desenvolvimento de sistemas e atualmente estou cursando minha graduação superior no mesmo seguimento.
 Amo a técnologia e como a programação é presente em quase tudo nela, sou super curiosa em saber das novas tendências que vem surgindo e procuro estar me atualizando cotidianamente conforme o mercado vem se adaptando.</p>
 
 ### SUMARIO
