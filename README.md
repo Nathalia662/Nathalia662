@@ -27,12 +27,13 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 </div>
 
+----
 
 ### Tagueamento
 
 <h3> Avançado: </h3>
-<img src="https://github.com/Nathalia662/Nathalia662/blob/c5d2076a4845bdd8b4bb08aa8bf719f059f3e294/Google-Tag-Manager.png" width="200">
-<img src="https://github.com/Nathalia662/Nathalia662/blob/c5d2076a4845bdd8b4bb08aa8bf719f059f3e294/Google-Tag-Manager.png" align="left" width="200">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/a339ec88dcdc171a911bd9745a2cede6577d4994/ga-gtm-go.jpg" >
+
 
 
 
