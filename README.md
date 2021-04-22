@@ -32,7 +32,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 <img src="https://github.com/Nathalia662/Nathalia662/blob/dabeeed22ca36a9a0ae6f3ab8ad82790e12f7c08/img2.jfif" width="125">
 
 </div>
-
+<br>
 ----
 
 ### Tagueamento/Análise de dados
@@ -46,7 +46,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 <img src="https://github.com/Nathalia662/Nathalia662/blob/58d1cc2c9bf67c937376779968f414e961987358/transferir%20(1).png" width="140">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/58d1cc2c9bf67c937376779968f414e961987358/transferir.png" width="140">
 </div>
-
+<br>
 ---
 
 ### BACK-END
@@ -65,7 +65,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 <img src="https://github.com/Nathalia662/Nathalia662/blob/56a81ed1e391a899084a8e993affb57489fcc843/node.png" width="100">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/56a81ed1e391a899084a8e993affb57489fcc843/php.png" width="100">
 </DIV>
-
+<br>
 ---
 
 ### ESTUDANDO
@@ -75,7 +75,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 <img src="https://github.com/Nathalia662/Nathalia662/blob/bc85a0e9b0085ada78ea9928fafe329f56dd74b6/1_Hva7hcsFWulFUPhrEWui1A.jpeg" width="125">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/bc85a0e9b0085ada78ea9928fafe329f56dd74b6/sass.png" width="125">
 </div>
-
+<br>
 ---
 
 <H3 align="center"> Gostou do meu perfil? contate-me! </H3> 
