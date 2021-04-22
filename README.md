@@ -72,11 +72,11 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 ---
 
-<H1 align="center"> CONTATO </H1> 
+<H1 align="center"> Gostou do meu perfil? contate-me! </H1> 
 <BR>
 <div>
-<H3 align="left"> CEL: (11) 96434 - 0645 </H3>
-<H3 align="right"> E-mail: nathaliapaschotto3@gmail.com</H3>
+<H3 align="center"> 📞 (11) 96434 - 0645 </H3>
+<H3 align="center"> ✉ nathaliapaschotto3@gmail.com</H3>
 </div>
 
 
