@@ -15,7 +15,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 - [BACK-END](#BACK-END)
 - [ESTUDANDO](#ESTUDANDO)
 
-<H1 align="center"> Meu Conhecimento Técnico💻 </H1>
+<H1 align="center"> Meu conhecimento técnico💻 </H1>
 
  ### FRONT-END 
 
