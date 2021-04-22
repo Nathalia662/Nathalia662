@@ -6,8 +6,14 @@ Nathalia Nascimento Paschotto | Analytics & Optimization
 <h3 color = "red">Olá, sejam bem vindxs ao meu perfil! 😄 🚀  </h3>
 
 <p>Sou formada no ensino técnico em Desenvolvimento de sitemas e atualmente estou cursando minha graduação superior no mesmo seguimento.
-Amo técnologia e como a programação é presente em quase tudo nela, sou super curiosa em saber das tendências que vem surgindo e procuro estar me atualizando cotidianamente conforme o mercado vem se adaptando.</p>
+Amo a técnologia e como a programação é presente em quase tudo nela, sou super curiosa em saber das novas tendências que vem surgindo e procuro estar me atualizando cotidianamente conforme o mercado vem se adaptando.</p>
 
+### SUMARIO
+
+- [FRONT END](#FRONT-END)
+-[Tagueamento/Análise de dados](#Tagueamento/Análise-de-dados)
+- [BACK-END](#BACK-END)
+- [ESTUDANDO](#ESTUDANDO)
 
 <H1 align="center">Conhecimento Técnico💻 </H1>
 
@@ -29,7 +35,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 ----
 
-### Tagueamento/ Análise de dados
+### Tagueamento/Análise de dados
 
 <h3> Avançado: </h3>
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f10a3826661e43a655e874ba5cc25b69b6e97720/dataLayer-scheme.jpg" width="500" >
@@ -72,7 +78,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 ---
 
-<H1 align="center"> Gostou do meu perfil? contate-me! </H1> 
+<H3 align="center"> Gostou do meu perfil? contate-me! </H3> 
 <BR>
 <div>
 <H3 align="center"> 📞 (11) 96434 - 0645 </H3>
