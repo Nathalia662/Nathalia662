@@ -54,8 +54,10 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/sql.png" width="100">
 <br>
 
-
-
+<h3> Intermediário: </h3>
+<img src="https://github.com/Nathalia662/Nathalia662/blob/56a81ed1e391a899084a8e993affb57489fcc843/python.png" width="100">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/56a81ed1e391a899084a8e993affb57489fcc843/node.png" width="100">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/56a81ed1e391a899084a8e993affb57489fcc843/php.png" width="100">
 </DIV>
 
 
