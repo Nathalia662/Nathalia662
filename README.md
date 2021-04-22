@@ -66,8 +66,8 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 <h3> Novos flameworks que estou aprendendo 😄 </h3>
 <div>
-<img src="https://github.com/Nathalia662/Nathalia662/blob/bc85a0e9b0085ada78ea9928fafe329f56dd74b6/1_Hva7hcsFWulFUPhrEWui1A.jpeg" width="200">
-<img src="https://github.com/Nathalia662/Nathalia662/blob/bc85a0e9b0085ada78ea9928fafe329f56dd74b6/sass.png" width="200">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/bc85a0e9b0085ada78ea9928fafe329f56dd74b6/1_Hva7hcsFWulFUPhrEWui1A.jpeg" width="160">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/bc85a0e9b0085ada78ea9928fafe329f56dd74b6/sass.png" width="160">
 </div>
 
 
