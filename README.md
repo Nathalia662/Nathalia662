@@ -41,6 +41,17 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <img src="https://github.com/Nathalia662/Nathalia662/blob/58d1cc2c9bf67c937376779968f414e961987358/transferir.png" width="140">
 </div>
 
+---
+
+### BACK-END
+
+<h3> Avançado: </h3>
+
+<DIV>
+
+</DIV>
+
+
 
 
 
