@@ -35,9 +35,10 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f10a3826661e43a655e874ba5cc25b69b6e97720/dataLayer-scheme.jpg" width="500" >
 
 <h3> Básico: </h3>
-
+<div>
 <img src="https://github.com/Nathalia662/Nathalia662/blob/192852360d5c4c4fd0cc21f56c79ac937c66e19f/google-data-studio.jpg" width="250">
-<img src="https://github.com/Nathalia662/Nathalia662/blob/8183528d47c4bae73669b96cb3ac9b7da4f18175/transferir%20(1).png" width="250">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/192852360d5c4c4fd0cc21f56c79ac937c66e19f/google-data-studio.jpg" width="250">
+</div>
 
 
 
