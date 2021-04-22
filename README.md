@@ -70,6 +70,14 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <img src="https://github.com/Nathalia662/Nathalia662/blob/bc85a0e9b0085ada78ea9928fafe329f56dd74b6/sass.png" width="125">
 </div>
 
+---
+
+<H1 align="center"> CONTATO </H1> 
+<BR>
+<H3 align="left"> CEL: (11) 96434 - 0645 </H3>
+<br>
+<H3 align="rigth"> E-mail: nathaliapaschotto3@gmail.com</H3>
+
 
 
 
