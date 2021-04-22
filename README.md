@@ -17,7 +17,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
  <div>
 
-<img src="https://github.com/Nathalia662/Nathalia662/blob/98414cc46e1c22a5d4484e4a23fa972a8e738c46/icones1.png" width="400">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/98414cc46e1c22a5d4484e4a23fa972a8e738c46/icones1.png" width="300">
 <h3> intermediário: <h3>
 
 ![front2](https://github.com/Nathalia662/Nathalia662/blob/d7158565d3215a7cbe9b9937154e2d941ceab9eb/jquery.jpg)
