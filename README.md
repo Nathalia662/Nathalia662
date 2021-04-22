@@ -19,7 +19,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 <img src="https://github.com/Nathalia662/Nathalia662/blob/98414cc46e1c22a5d4484e4a23fa972a8e738c46/icones1.png" width="300">
 
-<h3> intermediário: <h3>
+<h3> Intermediário: <h3>
 
 <img src="https://github.com/Nathalia662/Nathalia662/blob/d7158565d3215a7cbe9b9937154e2d941ceab9eb/jquery.jpg" width="100">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f1546ac1ae17d998672578d0b6d28fe9b75e6655/images.jfif" width="125">
@@ -37,6 +37,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <h3> Básico: </h3>
 
 <img src="https://github.com/Nathalia662/Nathalia662/blob/192852360d5c4c4fd0cc21f56c79ac937c66e19f/google-data-studio.jpg" width="250">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/8183528d47c4bae73669b96cb3ac9b7da4f18175/transferir%20(1).png" width="250">
 
 
 
