@@ -36,7 +36,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 
 ----
 
-### TAGUEAMENTO
+### TAGUEAMENTO|ANÁLISE DE DADOS
 
 <h3> Avançado: </h3>
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f10a3826661e43a655e874ba5cc25b69b6e97720/dataLayer-scheme.jpg" width="500" >
