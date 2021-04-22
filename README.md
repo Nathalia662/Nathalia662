@@ -36,7 +36,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 <h3> Básico: </h3>
 
-<img src="https://github.com/Nathalia662/Nathalia662/blob/192852360d5c4c4fd0cc21f56c79ac937c66e19f/google-data-studio.jpg" width="300">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/192852360d5c4c4fd0cc21f56c79ac937c66e19f/google-data-studio.jpg" width="250">
 
 
 
