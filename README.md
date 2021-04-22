@@ -23,6 +23,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 <img src="https://github.com/Nathalia662/Nathalia662/blob/d7158565d3215a7cbe9b9937154e2d941ceab9eb/jquery.jpg" width="100">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f1546ac1ae17d998672578d0b6d28fe9b75e6655/images.jfif" width="125">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/dabeeed22ca36a9a0ae6f3ab8ad82790e12f7c08/img2.jfif" width="125">
 
 
 
