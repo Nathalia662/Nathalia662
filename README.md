@@ -32,7 +32,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 
 <h3> Avançado: </h3>
 <img src="https://github.com/Nathalia662/Nathalia662/blob/c5d2076a4845bdd8b4bb08aa8bf719f059f3e294/Google-Tag-Manager.png" width="200">
-<
+<img src="https://github.com/Nathalia662/Nathalia662/blob/c5d2076a4845bdd8b4bb08aa8bf719f059f3e294/Google-Tag-Manager.png" width="200">
 
 
 
