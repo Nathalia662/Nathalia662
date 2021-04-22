@@ -11,7 +11,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 ### SUMARIO
 
 - [FRONT END](#FRONT-END)
--[TAGUEAMENTO](#TAGUEAMENTO)
+- [TAGUEAMENTO](#TAGUEAMENTO)
 - [BACK-END](#BACK-END)
 - [ESTUDANDO](#ESTUDANDO)
 
