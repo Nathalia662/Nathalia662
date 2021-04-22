@@ -25,9 +25,19 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f1546ac1ae17d998672578d0b6d28fe9b75e6655/images.jfif" width="125">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/dabeeed22ca36a9a0ae6f3ab8ad82790e12f7c08/img2.jfif" width="125">
 
-
-
 </div>
+</br>
+
+### Tagueamento
+
+<h3> Avançado </h3>
+
+</br>
+
+### Mídia 
+
+<h3> Básico <h3>
+
 
 
 
