@@ -11,7 +11,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 ### SUMARIO
 
 - [FRONT END](#FRONT-END)
--[Tagueamento/Análise de dados](#Tagueamento/Análise-de-dados)
+-[TAGUEAMENTO](#TAGUEAMENTO)
 - [BACK-END](#BACK-END)
 - [ESTUDANDO](#ESTUDANDO)
 
@@ -36,7 +36,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 
 ----
 
-### Tagueamento/Análise de dados
+### TAGUEAMENTO
 
 <h3> Avançado: </h3>
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f10a3826661e43a655e874ba5cc25b69b6e97720/dataLayer-scheme.jpg" width="500" >
