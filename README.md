@@ -48,6 +48,10 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <h3> Avançado: </h3>
 
 <DIV>
+<img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/java.png" width="140">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/c%23.png" width="140">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/mysql.png" width="140">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/sql.png" width="140">
 
 </DIV>
 
