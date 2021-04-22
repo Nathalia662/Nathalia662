@@ -1,4 +1,4 @@
-Nathalia Nascimento Paschotto
+Nathalia Nascimento Paschotto | Analytics & Optimization
 --- 
 <h1 align="center">Sobre mim</h1>
 
@@ -52,6 +52,9 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/c%23.png" width="100">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/mysql.png" width="100">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/efe44ab03ee4f3aec3db84540867b6bb9123e76e/sql.png" width="100">
+<br>
+
+
 
 </DIV>
 
