@@ -22,6 +22,7 @@ Amo técnologia e como a programação é presente em quase tudo nela, sou super
 <h3> intermediário: <h3>
 
 <img src="https://github.com/Nathalia662/Nathalia662/blob/d7158565d3215a7cbe9b9937154e2d941ceab9eb/jquery.jpg" width="125">
+<img src="https://github.com/Nathalia662/Nathalia662/blob/f1546ac1ae17d998672578d0b6d28fe9b75e6655/images.jfif" width="125">
 
 
 
