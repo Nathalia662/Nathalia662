@@ -41,7 +41,7 @@ Amo a técnologia e como a programação é presente em quase tudo nela, sou sup
 <h3> Avançado: </h3>
 <img src="https://github.com/Nathalia662/Nathalia662/blob/f10a3826661e43a655e874ba5cc25b69b6e97720/dataLayer-scheme.jpg" width="500" >
 
-<h3> Básico: </h3>
+
 <div>
 <img src="https://github.com/Nathalia662/Nathalia662/blob/192852360d5c4c4fd0cc21f56c79ac937c66e19f/google-data-studio.jpg" width="180">
 <img src="https://github.com/Nathalia662/Nathalia662/blob/58d1cc2c9bf67c937376779968f414e961987358/transferir%20(1).png" width="140">
